@@ -1,4 +1,4 @@
-·## EMGLogger
+## EMGLogger
 
 OPI TrueSense Sensor Kit Logger.
 
